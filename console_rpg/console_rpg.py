@@ -27,7 +27,7 @@ print('Your Guinea Pig just got lost. Bring him Back Home\n'
 
 while True:
 
-    #print(player)
+    print(player)
     answer = input("Where should we go?: ").lower()
 
     if answer == 'q':
